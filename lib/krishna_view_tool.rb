@@ -1,5 +1,5 @@
 require "krishna_view_tool/version"
-require "krishna_view_tool/version/renderer"
+require "krishna_view_tool/renderer"
 
 module KrishnaViewTool
   # Your code goes here...
